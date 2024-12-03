@@ -1,1 +1,2 @@
-# azure-end-to-end-data-eng-project
+# Azure End to end | Data Engineering Project
+![Arquitectura](AzureArquitectura.png)
